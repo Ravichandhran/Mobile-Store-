@@ -30,4 +30,4 @@ Added one in line
 added one more line to the file
 example
 Hi welcome to this project,
-this was a interesting to work ,
+this was a interesting to work ,and then here we can learn some more knoowledge about technical and management
